@@ -1,10 +1,15 @@
 .App {
-  text-align: center;
-  font-size: xx-large;
-
+  text-align: left;
+  
+  font-family: 'SofAguafina Scriptia';
+   font-size: 77px;
 }
 .button,.text{
   font-size: xx-large;
+}
+.oo{
+  width: 11px;
+  font-family: 'SofAguafina Scriptia';
 }
 .sukku
 {
@@ -15,6 +20,18 @@
   font-size: xxx-large;
   
 }
+body{
+  font-family: 'SofAguafina Scriptia';
+}
+.romantic
+{
+  background-image: url("romantic.jpg") ;
+  background-repeat: no-repeat;
+  background-size: 1823px 1803px;
+  background-position: center;
+  height: 723px;
+}
+
 .head
 {
   position: relative;
@@ -22,10 +39,7 @@
   font-size: xx-large;
   color: white;
 }
-#root
-{
-  /* background-color: royalblue; */
-}
+
 
 .App-logo {
   height: 40vmin;
